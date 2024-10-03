@@ -12,7 +12,7 @@ rshinyapp-template/
 ├── .gitignore
 ├── README.md
 ├── input_file.qs
-├── 001_data_cleaning_script.qmd
+├── 001_data_cleaning_and_eda_script.qmd
 │
 ├── 100_data_raw/ (add to .gitignore)
 ├── 200_data_clean/ (add to .gitignore)
