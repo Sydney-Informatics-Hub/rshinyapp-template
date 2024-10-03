@@ -1,0 +1,13 @@
+name: minimal-viable-product
+title: minimal-viable-product
+username: edenzhang
+account: edenzhang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12907441
+bundleId: 9176863
+url: https://edenzhang.shinyapps.io/minimal-viable-product/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|.Rprofile|001_data_cleaning_and_eda_script.qmd|002_generate_dummy_data.R|README.md
