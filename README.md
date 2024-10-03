@@ -2,7 +2,7 @@
 
 This is a template for deploying R Shiny apps.
 
-## Set up environment
+## Set up local folder environment
 
 ```
 rshinyapp-template/
@@ -22,7 +22,7 @@ rshinyapp-template/
 │   └── *.png
 └── rsconnect/
 ```
-## If using renv:
+## If using renv
 
 ```
 renv::init()
