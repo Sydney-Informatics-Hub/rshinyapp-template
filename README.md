@@ -22,7 +22,7 @@ rshinyapp-template/
 │   └── *.png
 └── rsconnect/
 ```
-## If using renv
+## If using renv:
 
 ```
 renv::init()
@@ -31,7 +31,7 @@ renv::snapshot()
 
 ## Deploying to shinyapps.io
 
-Register and/or log in with your account at https://www.shinyapps.io
+Register and/or log in with your account at https://www.shinyapps.io.
 
 ```
 library(rsconnect)
