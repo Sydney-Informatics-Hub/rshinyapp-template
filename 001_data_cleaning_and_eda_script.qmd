@@ -1,0 +1,6 @@
+---
+title: 'Data cleaning and EDA script'
+date: ``r format(Sys.time(), '%d %B %Y')`"
+---
+
+Clean data read in from 100_data_raw to be exported to 200_data_clean
